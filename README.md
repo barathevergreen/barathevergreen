@@ -12,14 +12,6 @@ As a Data Aspirant, I constantly acquire new skills to adapt to trends through s
 
 
 
-
-
-
-
-> 
-> __Primary Interest: Data | Cloud | Data on Cloud__
->  
-
 ## :computer:  Tech Stack and Projects: 
 
 __Programming:__
