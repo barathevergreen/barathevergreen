@@ -10,6 +10,12 @@ These invaluable experiences and product knowledge have equipped me with evolvin
 
 As a Data Aspirant, I constantly acquire new skills to adapt to trends through self learning experiments and projects.
 
+
+
+
+
+
+
 > 
 > __Primary Interest: Data | Cloud | Data on Cloud__
 >  
