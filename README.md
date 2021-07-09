@@ -6,7 +6,7 @@ __Automation Engineer turned Data Scientist__ with a life long learning mindset,
 
 Strong apprehensions in __Data Science and Machine Learning Stack, AWS - Cloud Components and Sagemaker Stack__, Automation and Service Virtualization, Cybersecurity - Vulnerability Analysis, Project/Vendor Management.
 
-These invaluable experiences and product knowledge have equipped me with evolving roles and responsibilities in end-to-end software & Data Science project lifecycles. 
+These invaluable experiences and product knowledge have equipped me to handle evolving roles and responsibilities in end-to-end software & Data Science project lifecycles. 
 
 As a Data Aspirant, I constantly acquire new skills to adapt to trends through self learning experiments and projects.
 
