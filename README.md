@@ -45,6 +45,11 @@ __R:__
 
 tidyverse: dplyr, tidyr | ggplot2, Leaflet, Plotly, Highcharter, visNetwork, Datatable | RMD and Shiny
 
+__Projects:__
+
+tidyverse - DS Toolkit: 
+- Read me: https://github.com/barathevergreen/tidyverse_DS_toolkit_R/blob/master/README.md
+- Repo: https://github.com/barathevergreen/tidyverse_DS_toolkit_R/tree/master/Tidyverse%20Functions
 
 __Matlab/Octave__ ML and DL implementations
 
@@ -64,7 +69,7 @@ https://github.com/barathevergreen?tab=repositories
 
 ## :memo: Other certifications:
 1. 1X Tableau
-2. 2X AWS - AWS Solution Architect, Machine Learning Specialist(WIP)
+2. 2X AWS - AWS Solution Architect, Machine Learning Specialist
 
 ## :book: Formal Education:
 
