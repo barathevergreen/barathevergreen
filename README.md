@@ -22,19 +22,19 @@ __Python (PRIMARY):__  Numpy | Pandas | Matplotlib, Seaborn, Folium | Scikit-Lea
 
 __Project(s):__
 
-Machine Learning: 
+_Machine Learning:_ 
 - Read me: https://github.com/barathevergreen/Machine_Learning_with_python_sklearn_scipy_IBM_Projects/blob/main/README.md
 - Repo: https://github.com/barathevergreen/Machine_Learning_with_python_sklearn_scipy_IBM_Projects
 
-Deep Learning 
+_Deep Learning:_
 - Read me: https://github.com/barathevergreen/Deep_Learning_Specialization_Python_Coursera_Projects/blob/main/README.md
 - Repo: https://github.com/barathevergreen/Deep_Learning_Specialization_Python_Coursera_Projects
 
-Data Vis:
+_Data Vis:_
 - Read me: https://github.com/barathevergreen/Pandas_AllPlots_Matplotlin_Seaborn_others_Intermediate_Python_Projects/edit/main/README.md
 - Repo: https://github.com/barathevergreen/Pandas_AllPlots_Matplotlin_Seaborn_others_Intermediate_Python_Projects
 
-Math and Stats:
+_Math and Stats:_
 - Read me: https://github.com/barathevergreen/Essential_Math_Stats_ML_Python_Projects/blob/master/README.md
 - Repo: https://github.com/barathevergreen/Essential_Math_Stats_ML_Python_Projects/tree/master/01%20Essential%20Math%20for%20Machine%20Learning%20-%20LL/DAT256x_Course_Modules_Jupyter
 
@@ -43,25 +43,25 @@ __R:__  tidyverse: dplyr, tidyr | ggplot2, Leaflet, Plotly, Highcharter, visNetw
 
 __Project(s):__
 
-tidyverse - DS Toolkit: 
+_tidyverse - DS Toolkit:_ 
 - Read me: https://github.com/barathevergreen/tidyverse_DS_toolkit_R/blob/master/README.md
 - Repo: https://github.com/barathevergreen/tidyverse_DS_toolkit_R/tree/master/Tidyverse%20Functions
 
-shiny:
+_shiny:_
 - Read me: https://github.com/barathevergreen/interactive_presentations_shiny_R/blob/master/README.md
 - Repo: https://github.com/barathevergreen/interactive_presentations_shiny_R
 
-html widgets: 
+_html widgets:_
 - Read me: https://github.com/barathevergreen/interactive_vis_html_widgets_R/blob/master/README.md
 - Repo: https://github.com/barathevergreen/interactive_vis_html_widgets_R
 
-ggplot2:
+_ggplot2:_
 - Read me: https://github.com/barathevergreen/ggplot2_R/blob/master/README.md
 - Repo: https://github.com/barathevergreen/ggplot2_R
 
 __Matlab/Octave:__ 
 
-ML and DL implementations:
+_ML and DL implementations:_
 - Read me: https://github.com/barathevergreen/Machine_learning_with_Matlab_octave_Projects/blob/main/README.md
 - Repo: https://github.com/barathevergreen/Machine_learning_with_Matlab_octave_Projects
 
