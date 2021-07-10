@@ -67,9 +67,9 @@ _ML and DL implementations:_
 
 ### Cloud:
 
-AWS Cloud Components - Architect solutions | build, deploy, maintain containerized applications in ECS/EKS/Fargate | Data Vis using AWS QuickSight
+_AWS Cloud Components_ - Architect solutions | build, deploy, maintain containerized applications in ECS/EKS/Fargate | Data Vis using AWS QuickSight
 
-AWS Sagemaker Stack - Experiments, AutoML, Debugger, Groundtruth | AI services
+_AWS Sagemaker Stack_ - Experiments, AutoML, Debugger, Groundtruth | AI services
 
 ### BI Tools:
 
