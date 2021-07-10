@@ -81,7 +81,7 @@ https://github.com/barathevergreen?tab=repositories
 
 ## :memo: Other certifications:
 1. 1X Tableau
-2. 2X AWS - AWS Solution Architect, Machine Learning Specialist
+2. 2X AWS - AWS Solution Architect Associate, Machine Learning Specialist
 
 ## :book: Formal Education:
 
