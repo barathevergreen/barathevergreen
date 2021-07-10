@@ -18,7 +18,8 @@ As a Data Aspirant, I constantly acquire new skills to adapt to trends through s
 
 __SQL__
 
-__Python (PRIMARY):__  Numpy | Pandas | Matplotlib, Seaborn, Folium | Scikit-Learn, Scipy | Keras, Tensorflow
+__Python (PRIMARY):__  
+[Numpy | Pandas | Matplotlib, Seaborn, Folium | Scikit-Learn, Scipy | Keras, Tensorflow]
 
 __Project(s):__
 
@@ -39,7 +40,8 @@ _Math and Stats:_
 - Repo: https://github.com/barathevergreen/Essential_Math_Stats_ML_Python_Projects/tree/master/01%20Essential%20Math%20for%20Machine%20Learning%20-%20LL/DAT256x_Course_Modules_Jupyter
 
 
-__R:__  tidyverse: dplyr, tidyr | ggplot2, Leaflet, Plotly, Highcharter, visNetwork, Datatable | RMD and Shiny
+__R:__  
+[tidyverse: dplyr, tidyr | ggplot2, Leaflet, Plotly, Highcharter, visNetwork, Datatable | RMD and Shiny]
 
 __Project(s):__
 
