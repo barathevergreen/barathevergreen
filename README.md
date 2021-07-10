@@ -18,7 +18,7 @@ As a Data Aspirant, I constantly acquire new skills to adapt to trends through s
 
 __SQL__
 
-__Python:(PRIMARY)__ Numpy | Pandas | Matplotlib, Seaborn, Folium | Scikit-Learn, Scipy | Keras, Tensorflow
+__Python (PRIMARY):__  Numpy | Pandas | Matplotlib, Seaborn, Folium | Scikit-Learn, Scipy | Keras, Tensorflow
 
 __Project(s):__
 
@@ -46,6 +46,18 @@ __Project(s):__
 tidyverse - DS Toolkit: 
 - Read me: https://github.com/barathevergreen/tidyverse_DS_toolkit_R/blob/master/README.md
 - Repo: https://github.com/barathevergreen/tidyverse_DS_toolkit_R/tree/master/Tidyverse%20Functions
+
+shiny:
+- Read me: https://github.com/barathevergreen/interactive_presentations_shiny_R/blob/master/README.md
+- Repo: https://github.com/barathevergreen/interactive_presentations_shiny_R
+
+html widgets: 
+- Read me: https://github.com/barathevergreen/interactive_vis_html_widgets_R/blob/master/README.md
+- Repo: https://github.com/barathevergreen/interactive_vis_html_widgets_R
+
+ggplot2:
+- Read me: https://github.com/barathevergreen/ggplot2_R/blob/master/README.md
+- Repo: https://github.com/barathevergreen/ggplot2_R
 
 __Matlab/Octave__ ML and DL implementations
 
