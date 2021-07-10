@@ -49,13 +49,13 @@ tidyverse - DS Toolkit:
 
 __Matlab/Octave__ ML and DL implementations
 
-__Cloud:__
+### Cloud:
 
 AWS Cloud Components - Architect solutions | build, deploy, maintain containerized applications in ECS/EKS/Fargate | Data Vis using AWS QuickSight
 
 AWS Sagemaker Stack - Experiments, AutoML, Debugger, Groundtruth | AI services
 
-__BI Tools:__
+### BI Tools:
 
 Tableau - Interactive Dashboards and Stories for Monitoring and Forecasting KPIs
 
