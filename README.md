@@ -8,7 +8,7 @@ Strong apprehensions in __Data Science and Machine Learning Stack, AWS - Cloud C
 
 These invaluable experiences and product knowledge have equipped me to handle evolving roles and responsibilities in end-to-end software & Data Science project lifecycles. 
 
-As a Data Aspirant, I constantly acquire new skills to adapt to trends through self learning experiments, kaggle, MOOCs and projects.
+As a Data and Cloud Aspirant, I constantly acquire new skills to adapt to trends through self learning experiments, kaggle, MOOCs and projects.
 
 
 
