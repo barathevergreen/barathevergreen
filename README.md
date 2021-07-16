@@ -24,15 +24,19 @@ __Python (PRIMARY):__
 __Project(s):__
 
 _Machine Learning:_ 
+
 https://github.com/barathevergreen/Machine_Learning_with_python_sklearn_scipy_IBM_Projects
 
 _Deep Learning:_
+
 https://github.com/barathevergreen/Deep_Learning_Specialization_Python_Coursera_Projects
 
 _Data Vis:_
+
 https://github.com/barathevergreen/Pandas_AllPlots_Matplotlin_Seaborn_others_Intermediate_Python_Projects
 
 _Math and Stats:_
+
 https://github.com/barathevergreen/Essential_Math_Stats_ML_Python_Projects/tree/master/01%20Essential%20Math%20for%20Machine%20Learning%20-%20LL/DAT256x_Course_Modules_Jupyter
 
 
@@ -42,15 +46,19 @@ __R:__
 __Project(s):__
 
 _tidyverse - DS Toolkit:_
+
 https://github.com/barathevergreen/tidyverse_DS_toolkit_R/tree/master/Tidyverse%20Functions
 
 _shiny:_
+
 https://github.com/barathevergreen/interactive_presentations_shiny_R
 
 _html widgets:_
+
 https://github.com/barathevergreen/interactive_vis_html_widgets_R
 
 _ggplot2:_
+
 https://github.com/barathevergreen/ggplot2_R
 
 __Matlab/Octave:__ 
@@ -63,6 +71,7 @@ https://github.com/barathevergreen/Machine_learning_with_Matlab_octave_Projects
 _AWS Cloud Components_ - Architect solutions | build, deploy, maintain containerized applications in ECS/EKS/Fargate | Data Vis using AWS QuickSight
 
 _AWS Sagemaker Stack_ - Experiments, AutoML, Debugger, Groundtruth | AI services, ML Ops:
+
 https://github.com/barathevergreen/AWS_ML_pipeline
 
 
